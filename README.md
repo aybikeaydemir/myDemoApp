@@ -12,6 +12,8 @@ In mathematics, a binary relation on a set A is a collection elements of A. In o
 
 
 
+[![Build Status](https://travis-ci.org/aybikeaydemir/myDemoApp.svg?branch=master)](https://travis-ci.org/aybikeaydemir/myDemoApp)
+
+ APP SITE : https://safe-brushlands-69264.herokuapp.com/compute
 
 
-Demo site: https://stormy-woodland-33416.herokuapp.com/
